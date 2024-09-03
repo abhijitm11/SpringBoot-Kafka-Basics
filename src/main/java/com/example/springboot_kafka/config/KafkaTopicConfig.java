@@ -18,8 +18,4 @@ public class KafkaTopicConfig {
         return TopicBuilder.name("jsonTopic")
                 .build();
     }
-
-
-
-
 }
